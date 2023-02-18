@@ -9,7 +9,8 @@
 1. 윈도우10
 2. wsl2 - Ubuntu
 ## 설치패키지
-1. 윈도우 - DockerDesktop
-2. Ubuntu - Docker
-3. Ubuntu - go
-4. Ubuntu - sqlc
+1. DockerDesktop
+2. TablePlus
+3. Golang
+4. Migrate
+5. Sqlc
