@@ -12,5 +12,5 @@
 1. DockerDesktop  
 2. TablePlus  
 3. Golang(v1.18.1)  
-4. Migrate  
+4. Migrate(v4.15.2)  
 5. Sqlc(v1.17.0) 
