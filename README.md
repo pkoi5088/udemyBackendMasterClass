@@ -8,9 +8,13 @@
 ## 실행환경
 1. 윈도우10
 2. wsl2 - Ubuntu
-## 설치패키지
+## 설치 프로그램
 1. DockerDesktop  
 2. TablePlus  
-3. Golang(v1.18.1)  
-4. Migrate(v4.15.2)  
-5. Sqlc(v1.17.0) 
+3. PostMan
+## 설치 패키지
+1. Golang(v1.18.1)  
+2. Migrate(v4.15.2)  
+3. Sqlc(v1.17.0) 
+4. Gin(v1.9.0)  
+5. Viper(v1.15.0)  
