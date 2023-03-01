@@ -2,7 +2,10 @@ module github.com/techschool/simplebank
 
 go 1.18
 
-require github.com/lib/pq v1.10.7
+require (
+	github.com/golang/mock v1.4.4
+	github.com/lib/pq v1.10.7
+)
 
 require (
 	github.com/bytedance/sonic v1.8.0 // indirect
@@ -44,7 +47,6 @@ require (
 	github.com/gin-gonic/gin v1.9.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/spf13/viper v1.15.0
-	github.com/stretchr/objx v0.5.0 // indirect
-	github.com/stretchr/testify v1.8.1 // indirect
+	github.com/stretchr/testify v1.8.1
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
