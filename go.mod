@@ -6,6 +6,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.2
 	github.com/golang/mock v1.4.4
 	github.com/lib/pq v1.10.7
+	golang.org/x/crypto v0.5.0
 )
 
 require (
@@ -34,7 +35,6 @@ require (
 	github.com/twitchyliquid64/golang-asm v0.15.1 // indirect
 	github.com/ugorji/go/codec v1.2.9 // indirect
 	golang.org/x/arch v0.0.0-20210923205945-b76863e36670 // indirect
-	golang.org/x/crypto v0.5.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
