@@ -18,3 +18,5 @@
 3. Sqlc(v1.17.0) 
 4. Gin(v1.9.0)  
 5. Viper(v1.15.0)  
+6. uuid(v1.3.0)
+7. paseto
