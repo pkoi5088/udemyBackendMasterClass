@@ -74,5 +74,5 @@ func (server *Server) validAccount(ctx *gin.Context, accountID int64, currency s
 		return account, false
 	}
 
-	return account, false
+	return account, true
 }
