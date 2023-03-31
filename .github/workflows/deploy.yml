@@ -20,10 +20,6 @@ jobs:
         role-to-assume: arn:aws:iam::468429122866:role/github-ci-role
         aws-region: ap-northeast-2
 
-    - name: Login to Amazon ECR Private
-      id: login-ecr
-      uses: aws-actions/amazon-ecr-login@v1
-
     - name: Login to Amazon ECR
       id: login-ecr
       uses: aws-actions/amazon-ecr-login@v1
